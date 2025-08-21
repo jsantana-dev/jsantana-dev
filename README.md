@@ -17,90 +17,93 @@ Sou Jamylle da Silva Santana, uma desenvolvedora de software com curiosidade por
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
   />
 <img 
-    align="left"
-    alt="SPRING BOOT"
-    title="Spring Boot"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+   align="left"
+   alt="SPRING BOOT"
+   title="Spring Boot"
+   width="30px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
   />
-  <img
+<img
     align="left"
     alt="HIBERNATE"
     title="Hibernate"
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"
-    />
-    <img 
+  />
+<img 
     align="left"
     alt="AWS"
     title="Amazon Web Services"
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      />
-      <img 
-      align="left"
-      alt="GIT"
-      title="Git"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-        />
-        <img
-        align="left"
-        alt="Node.js"
-        title="Node js"
-        width="30px"
-        style="padding-right: 10px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-        />
-        <img
-        align="left"
-        alt="JavaScript"
-        title="Java Script"
-        width="30px"
-        style="padding-right: 10px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-        />
-        <img
-        align="left"
-        alt="HTML"
-        title="HTML"
-        width="30px"
-        style="padding-right: 10px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-        />
-        <img
-        align="left"
-        alt="CSS"
-        title="CSS"
-        width="30px"
-        style="padding-right: 10px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-        />
+  />
+<img 
+    align="left"
+    alt="GIT"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  />
+<img
+    align="left"
+    alt="Node.js"
+    title="Node js"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+  />
+<img
+    align="left"
+    alt="JavaScript"
+    title="Java Script"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  />
+<img
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+  />
+<img
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+  />
+
+  <br/>
+  <br/>
 
 ### 📊 Estatísticas
 
-  <p>
-        <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api?
-username=jsantana-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-      />
-      <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/ username=jsantana-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-      />
-  </p>
-        
-          
+<p>
+  <img
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=jsantana-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    />
+
+  <img 
+     align="left" 
+     alt="GitHub Stats" 
+     height="200" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsantana-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+  
+</p>
+
           
       
       
